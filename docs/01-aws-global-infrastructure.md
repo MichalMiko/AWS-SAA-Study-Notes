@@ -8,6 +8,6 @@ The AWS Cloud spans 55 Availability Zones within 18 geographic Regions and 1 Loc
 
 **Edge Location (caching system)** - Warsaw (endpoint) - used for CDN (Content Delivery Network)
 
-![AWS Global Infrastructure](images\global-infrastructure.png) 
+![AWS Global Infrastructure](images/global-infrastructure.png) 
 
 Next: [Overview of Amazon Web Services](02-overview-of-amazon-web-services.md)
