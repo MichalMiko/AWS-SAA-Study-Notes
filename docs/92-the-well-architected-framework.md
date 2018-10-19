@@ -1,14 +1,14 @@
 # The Well Architected Framework 
 
-The whitepaper discussed in this section are available for download at https://aws.amazon.com/architecture/well-architected/ or in the `whitepapers` folder.
+The whitepaper discussed in this section are available for download at https://aws.amazon.com/architecture/well-architected/ or in the `whitepapers` directory.
 
-**There are 5 pillars:**
+The Well Architected Framework consists of **5 pillars**:
 
-- **Security**
-- **Reliability**
-- **Performance Efficiency**
-- **Cost Optimization**
-- **Operational Excellence**
+- **Security** - [PDF](whitepapers/AWS-Security-Pillar.pdf)
+- **Reliability** - [PDF](whitepapers/AWS-Reliability-Pillar.pdf)
+- **Performance Efficiency** - [PDF](whitepapers/AWS-Performance-Efficiency-Pillar.pdf)
+- **Cost Optimization** - [PDF](whitepapers/AWS-Cost-Optimization-Pillar.pdf)
+- **Operational Excellence** - [PDF](whitepapers/AWS-Operational-Excellence-Pillar.pdf)
 
 
 
@@ -546,11 +546,11 @@ In AWS there ae several methods, services and features that can be used to suppo
 - What best practises for cloud operations are you using?
 - How are you doing configuration management for your workload?
 - Be sure that your documentation is thorough and up-to-date
-  - Application desings
+  - Application designs
   - Environment configurations
   - Resource configurations
   - Response plans
-  - Mitigtion plans
+  - Mitigation plans
 
 ### Operation
 
@@ -602,7 +602,3 @@ In AWS, CloudWatch can have an alarm which will trigger a SNS notification to an
   - **AWS CloudTrail** - audit and track changes made to AWS environments
 - **Response**
   - CloudWatch - effective and automated responses, alarms that trigger SNS notifications 
-
-
-
-## Summary
